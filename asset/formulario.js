@@ -39,7 +39,7 @@ document.getElementById("miFormulario").addEventListener("submit", function(even
   };
   
   // Envía los datos al webhook
-  fetch('https://hook.us1.make.com/cah5nmk7y61nwptxpp5nkcqdkrwd1fyp', {
+  fetch('https://hook.us1.make.com/2h9pfk5veulf4o25r5wkcj4gi7hnvcqp', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
